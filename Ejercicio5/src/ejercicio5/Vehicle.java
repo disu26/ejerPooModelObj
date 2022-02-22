@@ -2,7 +2,8 @@
 package ejercicio5;
 
 /**
- *
+ * Clase abstracta vehículo.
+ * 
  * @version 1.00.000 2022-02-21
  * @author Dímar Andrey Suárez Hidalgo - dimar260212@gmail.com
  */
